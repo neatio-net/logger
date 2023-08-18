@@ -1,1 +1,1 @@
-# logger
+# Logger Go Library
