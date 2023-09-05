@@ -2,7 +2,6 @@ package logger
 
 import (
 	"os"
-
 	. "github.com/nio-net/common"
 	"github.com/nio-net/log15"
 )
